@@ -13,7 +13,7 @@ be able run in other platforms as well.
 
 2) The code uses the python machine learning library (MLIB).
     MLIB can be downloaded here.
-    http://www.iba.t.u-tokyo.ac.jp/~danushka/mlib.html
+    https://github.com/Bollegala/MLIB
     There is already a downloaded version of MLIB in the bin directory and you need not download MLIB.
 
 3) classias: a classification library.
